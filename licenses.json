@@ -1,6 +1,6 @@
 {
   "phien_ban": 1,
-  "cap_nhat_luc": "2026-07-14T13:08:45.7394189+00:00",
+  "cap_nhat_luc": "2026-07-15T07:07:39.1244662+00:00",
   "giay_phep": [
     {
       "ma_tai_khoan": "BRK-000001",
@@ -21,8 +21,8 @@
       "khong_het_han": false,
       "het_han": "2026-08-14",
       "so_nhan_vat_toi_da": 10,
-      "dang_hoat_dong": true,
-      "chu_ky": "c/N8knoR+lmf3ZROAAlaT9AgQlVTF/GvWoudIS7uvHKSHcvPPCT5zSrJ9Yniwrw1Q3sTRs8NNto4++lhsdijGA=="
+      "dang_hoat_dong": false,
+      "chu_ky": "yePpojO1pz5Pa2Suab5AnEWsxlblnopprZSlVIRyH7z9gOgacSj4KA8piAxYaGzmjm40QfchrAWBV0JDz593LQ=="
     }
   ]
 }
