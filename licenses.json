@@ -1,6 +1,6 @@
 {
   "phien_ban": 1,
-  "cap_nhat_luc": "2026-07-29T13:22:20.8651994+00:00",
+  "cap_nhat_luc": "2026-07-29T22:23:00.9774841+00:00",
   "giay_phep": [
     {
       "ma_tai_khoan": "BRK-000001",
@@ -12,6 +12,17 @@
       "so_nhan_vat_toi_da": 9999,
       "dang_hoat_dong": true,
       "chu_ky": "FUCQ+a3ZFyMkMXC3OFWoT9WSrfxRCYOxBVktV4kvO9Qj3Ypse+NVrQSJcStMQD+kutviuILZMC33mZnp8zg2Zg=="
+    },
+    {
+      "ma_tai_khoan": "BRK-000002",
+      "ma_kich_hoat_bam": "60C788404F0CCDA65D27668073EFE3F94E450FAB943C0B1D05D88AE8C0120005",
+      "ma_thiet_bi": "DEV-A61BE041C24663C7382B",
+      "vai_tro": "khach_hang",
+      "khong_het_han": true,
+      "het_han": null,
+      "so_nhan_vat_toi_da": 9999,
+      "dang_hoat_dong": true,
+      "chu_ky": "mNXQ/I4G6lnB/jN6znzPqBf8IKPOfyV8lW3p9deHkFChli7hrDkvbwmirBH/y3O7XF3zY9u1WV2GImKFw5MEoA=="
     }
   ]
 }
